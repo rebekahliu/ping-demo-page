@@ -3030,12 +3030,12 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("https://res.cloudinary.com/rebekahliu/image/upload/c_fill,e_blur:476,o_85,w_1500/v1508042342/pexels-photo-541522_1_yfrmb2.jpg");
+		background-image: url("https://res.cloudinary.com/rebekahliu/image/upload/c_fill,e_blur:476,b_rgb:0b0b0b,o_45,w_1500/v1508042342/pexels-photo-541522_1_yfrmb2.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 12em 0 15em 0;
 		text-align: center;
 	}
 
